@@ -1,0 +1,7 @@
+{
+  "name": "lolinsv-store-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
